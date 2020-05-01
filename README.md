@@ -27,6 +27,15 @@ A relaxing, audio-first experience for the Bose AR devices, in which players hel
 
 A brick-breaking game with uniquely designed bricks and handcrafted levels. 
 
+## A Hero's Journey
+2018
+
+[Video](https://youtu.be/AsedWywsYWY)
+
+*Programmer*
+
+An interactive story that lets players create and experience their own characters, villains, buildings, and basically everything in the world. Showcased in Play NYC 2018.
+
 ## Ostrich among us								
 2018
 
