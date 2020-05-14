@@ -94,7 +94,9 @@ An arcade game inspired by box loving cats, in which players must time the exact
 ## Mushroom Hunting							
 2014
 
-[Play URL](http://mokuni.com/mushroom-hunting/)
+[Trailer](https://youtu.be/NkxAvQrdp4M)
+
+[Gameplay](https://youtu.be/BQSF0BxtXfI)
 
 *Programmer*
 
